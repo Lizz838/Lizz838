@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Lizz838
-- 👀 I’m interested in coding and cats!
-- 🌱 I’m currently learning C# and Javascript
-- 💞️ I’m looking to collaborate on Nothing at the moment!
-- 📫 How to reach me through my email! 5otherworlds@gmail.com
+Safe to say I have no idea what I'm doing. At least I'm having fun!
